@@ -1,4 +1,4 @@
-![Yesman3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yesman3&show_icons=true&theme=본인이선택한테마명)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yesman3&show_icons=true&theme=discord_old_blurple)
 
 
 
