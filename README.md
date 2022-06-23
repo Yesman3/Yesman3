@@ -4,14 +4,14 @@
 
 
 
-📚Tech Stack📚<br><br>
+ <h3>📚Tech Stack📚<br><br></h3>
  <img  src="https://img.shields.io/badge/html5-critical?style=flat-square&logo=html5&logoColor=white"/>
  <img  src="https://img.shields.io/badge/css-blueviolet?style=flat-square&logo=css3&logoColor=white"/>
- <img  src="https://img.shields.io/badge/css-yellow?style=flat-square&logo=javascript&logoColor=white"/><br>
+ <img  src="https://img.shields.io/badge/javascript-yellow?style=flat-square&logo=javascript&logoColor=white"/><br>
  <img  src="https://img.shields.io/badge/jquery-ff69b4?style=flat-square&logo=jquery&logoColor=white"/>
  <img  src="https://img.shields.io/badge/react-9cf?style=flat-square&logo=react&logoColor=white"/>
   
-  </div>
+  </div><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yesman3&show_icons=true&theme=buefy)
 
